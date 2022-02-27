@@ -4,4 +4,6 @@ Hi there!👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kycnb666)](https://github.com/anuraghazra/github-readme-stats)
 
 
-I'm a high school student
+I'm a high school student.
+
+My favorite programming language is C#.
